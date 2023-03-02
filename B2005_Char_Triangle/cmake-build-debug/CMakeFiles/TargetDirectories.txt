@@ -1,0 +1,3 @@
+D:/C++ codes/Algorithm/B2005_Char_Triangle/cmake-build-debug/CMakeFiles/B2005_Char_Triangle.dir
+D:/C++ codes/Algorithm/B2005_Char_Triangle/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/C++ codes/Algorithm/B2005_Char_Triangle/cmake-build-debug/CMakeFiles/rebuild_cache.dir
