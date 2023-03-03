@@ -10,9 +10,6 @@ int main() {
         printf("Wrong input!");
         return 1;
     }
-    int c = 100*(x*a - y*b) / (a - b);
-    int pt_1 = c/100;
-    int pt_2 = c%100;
-    printf("%d.%d\n", pt_1, pt_2);
+    printf("%0.2f", double(x*a-y*b)/(a-b));
     return 0;
 }
