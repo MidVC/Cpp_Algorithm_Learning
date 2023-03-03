@@ -1,0 +1,3 @@
+D:/C++ codes/Algorithm/B2030_Distance_between_two_points/cmake-build-debug/CMakeFiles/B2030_Distance_between_two_points.dir
+D:/C++ codes/Algorithm/B2030_Distance_between_two_points/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/C++ codes/Algorithm/B2030_Distance_between_two_points/cmake-build-debug/CMakeFiles/rebuild_cache.dir

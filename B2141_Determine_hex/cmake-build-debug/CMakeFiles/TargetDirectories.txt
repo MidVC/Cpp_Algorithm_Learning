@@ -1,0 +1,3 @@
+D:/C++ codes/Algorithm/B2141_Determine_hex/cmake-build-debug/CMakeFiles/B2141_Determine_hex.dir
+D:/C++ codes/Algorithm/B2141_Determine_hex/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/C++ codes/Algorithm/B2141_Determine_hex/cmake-build-debug/CMakeFiles/rebuild_cache.dir

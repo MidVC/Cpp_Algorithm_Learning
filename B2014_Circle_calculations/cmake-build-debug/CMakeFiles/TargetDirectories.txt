@@ -1,0 +1,3 @@
+D:/C++ codes/Algorithm/B2014_Circle_calculations/cmake-build-debug/CMakeFiles/B2014_Circle_calculations.dir
+D:/C++ codes/Algorithm/B2014_Circle_calculations/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/C++ codes/Algorithm/B2014_Circle_calculations/cmake-build-debug/CMakeFiles/rebuild_cache.dir
