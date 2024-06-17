@@ -1,0 +1,5 @@
+# Ignore all files in folders that start with 20
+20*/*
+
+# Un-ignore files that end with .cpp in those folders
+!20*/*.cpp
