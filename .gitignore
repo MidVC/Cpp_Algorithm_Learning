@@ -3,3 +3,5 @@
 
 # Un-ignore files that end with .cpp in those folders
 !20*/*.cpp
+
+.*
